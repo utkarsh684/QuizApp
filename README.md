@@ -1,6 +1,6 @@
 # quiz_app
 
-A new Flutter project.
+A Quiz Application build using flutter.
 
 ## Getting Started
 
